@@ -1,0 +1,9 @@
+body{
+    font-family:"franklin gothic medium", "arial narrow", arial, sans-serif;
+    background-color: hsl(60, 80%, 90%);
+    padding: 20px;
+}
+#ChangeBtn{
+    background-color: hsl(182, 80%, 70%);
+
+}
